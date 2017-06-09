@@ -3,7 +3,7 @@
 			<span class="about-info__heading">
 				Отзывы клиентов
 			</span>
-			<a class="write" href="#">Оставить отзыв</a>
+			<a class="write fancybox" href="#review">Оставить отзыв</a>
 	</div>
 	<ul class="otzyv-ul">
 	<?php foreach($data as $item): ?>
@@ -36,3 +36,27 @@
 		</li>																														
 	</ul> -->	
 </div>
+<div class="modal" id="review" style="display: none;">
+		<form>
+			<h3 class="modal__heading">Оставить отзыв</h3>
+				<div class="modal-input">
+					<label class="modal-input__text">
+						Имя:
+					</label>
+					<input type="text" placeholder="Ваше имя...">
+				</div>
+				<div class="modal-input">
+					<label class="modal-input__text">
+						Почта:
+					</label>
+					<input type="text" placeholder="Почта...">
+				</div>
+				<div class="modal-input">
+					<label class="modal-input__text">
+						Отзыв:
+					</label>
+					<textarea class="modal-input__textarea"></textarea>
+				</div>
+			<input type="submit" value="Отправить" class="btn">
+		</form>				
+	</div>

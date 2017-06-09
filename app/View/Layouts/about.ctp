@@ -108,30 +108,32 @@
 				</div>
 			</div>
 			<div class="section section--grey">
-				<div class="inner diplom-slider">
-					<div>
-						<img src="img/diploms1.png">
-					</div>
-					<div>
-						<img src="img/diploms2.png">
-					</div>
-					<div>
-						<img src="img/diploms1.png">
-					</div>
-					<div>
-						<img src="img/diploms2.png">
-					</div>	
-					<div>
-						<img src="img/diploms1.png">
-					</div>
-					<div>
-						<img src="img/diploms2.png">
-					</div>
-					<div>
-						<img src="img/diploms1.png">
-					</div>
-					<div>
-						<img src="img/diploms2.png">
+				<div class="inner">
+					<div class="diplom-slider">
+						<div>
+							<img src="img/diploms1.png">
+						</div>
+						<div>
+							<img src="img/diploms2.png">
+						</div>
+						<div>
+							<img src="img/diploms1.png">
+						</div>
+						<div>
+							<img src="img/diploms2.png">
+						</div>	
+						<div>
+							<img src="img/diploms1.png">
+						</div>
+						<div>
+							<img src="img/diploms2.png">
+						</div>
+						<div>
+							<img src="img/diploms1.png">
+						</div>
+						<div>
+							<img src="img/diploms2.png">
+						</div>
 					</div>																				
 				</div>
 			</div>

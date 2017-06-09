@@ -218,36 +218,36 @@
 						</ul>
 						<div id="gal-slider1" class="gal-slider">
 							<div class="gal-slider__item">
-								<img src="img/gal-item.png">
+								<a class="fancybox" href="1_b.jpg" data-fancybox-group="gallery"><img src="img/gal-item.png"></a>
 							</div>
 							<div class="gal-slider__item">
-								<img src="img/gal-item.png">
+								<a class="fancybox" href="1_b.jpg" data-fancybox-group="gallery"><img src="img/gal-item.png"></a>
 							</div>
 							<div class="gal-slider__item">
-								<img src="img/gal-item.png">
+								<a class="fancybox" href="1_b.jpg" data-fancybox-group="gallery"><img src="img/gal-item.png"></a>
 							</div>
 							<div class="gal-slider__item">
-								<img src="img/gal-item.png">
+								<a class="fancybox" href="1_b.jpg" data-fancybox-group="gallery"><img src="img/gal-item.png"></a>
 							</div>
 							<div class="gal-slider__item">
-								<img src="img/gal-item.png">
+								<a class="fancybox" href="1_b.jpg" data-fancybox-group="gallery"><img src="img/gal-item.png"></a>
 							</div>
 						</div>
 						<div id="gal-slider2" class="gal-slider">
 							<div class="gal-slider__item">
-								<img src="img/gal-item.png">
+								<a class="fancybox" href="1_b.jpg" data-fancybox-group="gallery2"><img src="img/gal-item.png"></a>
 							</div>
 							<div class="gal-slider__item">
-								<img src="img/gal-item.png">
+								<a class="fancybox" href="1_b.jpg" data-fancybox-group="gallery2"><img src="img/gal-item.png"></a>
 							</div>
 							<div class="gal-slider__item">
-								<img src="img/gal-item.png">
+								<a class="fancybox" href="1_b.jpg" data-fancybox-group="gallery2"><img src="img/gal-item.png"></a>
 							</div>
 							<div class="gal-slider__item">
-								<img src="img/gal-item.png">
+								<a class="fancybox" href="1_b.jpg" data-fancybox-group="gallery2"><img src="img/gal-item.png"></a>
 							</div>
 							<div class="gal-slider__item">
-								<img src="img/gal-item.png">
+								<a class="fancybox" href="1_b.jpg" data-fancybox-group="gallery2"><img src="img/gal-item.png"></a>
 							</div>
 						</div>			
 					</div>
