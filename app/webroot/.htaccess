@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+	Options +FollowSymLinks
+    RewriteEngine On
+    #Redirect 301 /index.php http://sitename.com
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+    #RewriteCond %{HTTP_HOST} ^www\.(.*)$
+	#RewriteRule ^(.*)$ http://%1/$1 [L,R=301]
+</IfModule>

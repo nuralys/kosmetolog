@@ -1,0 +1,27 @@
+ul.services-list li > ul > li {
+    margin-left: 25px;
+    line-height: 25px;
+}
+ul.services-list li>ul{
+	    margin-bottom: 20px;
+}
+ul.services-list ul li {
+    font-weight: 400;
+}
+ul.services-list > li {
+    font-weight: bold;
+}
+div#goodMessage {
+    background-color: #11DF17;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+}
+.about_txt .blocks td {
+    vertical-align: top;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+.about_txt .blocks img {
+    width: 140px;
+}

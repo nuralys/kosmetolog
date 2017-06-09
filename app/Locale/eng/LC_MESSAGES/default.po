@@ -1,0 +1,23 @@
+msgid "Главная"
+msgstr "Main page"
+
+msgid "Услуги"
+msgstr "Services"
+
+msgid "О хирурге"
+msgstr "About"
+
+msgid "Полезная информация"
+msgstr "Helpful information"
+
+msgid "Галерея"
+msgstr "Gallery"
+
+msgid "Новости/Акции"
+msgstr "News"
+
+msgid "Новости/Акции"
+msgstr "News"
+
+msgid "Контакты"
+msgstr "Contacts"
