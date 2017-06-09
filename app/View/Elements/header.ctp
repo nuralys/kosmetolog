@@ -5,7 +5,7 @@
 				<img src="/img/logo.png" class="logo__img">
 				<div class="logo-info">
 					<span class="logo-info__up">
-						Ходусова Оксана Александровна
+						Ходусова Оксана <span>Александровна</span>
 					</span>
 					<span class="logo-info__down">
 						Врач дерматокосметолог
@@ -30,6 +30,7 @@
 					<a class="soc-item fa fa-envelope"></a>
 				</li>
 			</ul>
+			<div class="mob-menu"></div>
 		</div>
 	</div>
 	<div class="bot-header">

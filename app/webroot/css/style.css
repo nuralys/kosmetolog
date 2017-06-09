@@ -1347,6 +1347,9 @@ p {
     float: none;
     width: 100%;
   }
+  .right-part{
+    margin:1px;
+  }
   .footer__left {
     width: 100%;
     float: none;
@@ -1421,6 +1424,14 @@ p {
   .slider-info {
     width: auto;
   }
+  .sertificate__left,.sertificate__right{
+    width:100%;
+    float:none;
+  }
+  .sertificate__right ul,.sertificate__left ul {
+    margin-left:0;
+    margin-right:0;
+  }
 }
 @media screen and (max-width: 550px) {
   .inner {
@@ -1442,4 +1453,14 @@ p {
   .logo-info__down {
     font-size: 14px;
   }
+  .uslugi-ul li{
+    width:50%;
+  }
+  .uslugi-ul li:nth-child(3n) .uslugi-item{
+    border-right:none;
+  }   
+  .uslugi-ul li:nth-child(2n) .uslugi-item{
+    border-right:1px solid #ccc;
+  }
+ 
 }
